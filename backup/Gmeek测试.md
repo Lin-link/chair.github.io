@@ -21,6 +21,8 @@
 通过Actions->build Gmeek->Run workflow->里面的按钮全局重新生成一次
 ```
 
+> 视频教程：https://www.bilibili.com/video/BV1GM4m1m7ZD/
+
 ### 提交问题
 
 1. 如果有问题可参考[Gmeek快速上手](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)   
